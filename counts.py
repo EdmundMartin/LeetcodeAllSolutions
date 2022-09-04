@@ -5,9 +5,9 @@ easy_count = glob.glob("./leetcode_easy/*.py")
 medium_count = glob.glob("./leetcode_medium/*.py")
 hard_count = glob.glob("./leetcode_hard/*.py")
 
-easy_total = 591
-medium_total = 1276
-hard_total = 525
+easy_total = 592
+medium_total = 1283
+hard_total = 527
 
 result = """
 ## Let's solve all the Leetcode problems
