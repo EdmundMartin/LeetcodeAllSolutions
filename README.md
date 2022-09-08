@@ -2,7 +2,7 @@
 ## Let's solve all the Leetcode problems
 
 ### Easy Progress
-* 184/592
+* 185/592
 
 ### Medium Progress
 * 35/1283
