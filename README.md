@@ -5,7 +5,7 @@
 * 209/592
 
 ### Medium Progress
-* 47/1285
+* 51/1285
 
 ### Hard Progress
 * 1/530
