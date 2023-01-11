@@ -2,10 +2,10 @@
 ## Let's solve all the Leetcode problems
 
 ### Easy Progress
-* 268/592
+* 272/592
 
 ### Medium Progress
-* 120/1285
+* 121/1285
 
 ### Hard Progress
 * 9/530
