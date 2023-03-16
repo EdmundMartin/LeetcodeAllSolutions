@@ -21,7 +21,6 @@ class Solution:
             starting_idx += 1
 
 
-
 if __name__ == '__main__':
     result = [1, 2, 3, 0, 0, 0]
 
